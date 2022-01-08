@@ -1,6 +1,8 @@
 # ignore the tutorial book
 EmbedFire_Tutorial_F407_StdLib_20211026.pdf
 
+# ignore the meaningless projects
+/LED_REG_encapsulate/
 
 ## C ignore template
 
