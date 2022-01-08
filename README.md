@@ -4,7 +4,9 @@
 
 1. LED-REG
 
-   JAN-6-2022
+   JAN-6-2022 to Jan-8-2022
 
-   Lightening the LED with register
+   Light up the RGB LED with registers.
+   
+2. LED-REG-
 
